@@ -1,0 +1,35 @@
+---
+title: Is FluCoMa Right for me for now
+author: PA
+blurb: |
+    My blurb
+tags:
+    - overview
+flair: tutorial
+featuredimage: /learn/for-featured-images/2D-corpus-explorer.png
+---
+
+<script>
+    import Admonition from '$lib/components/Admonition.svelte';
+</script>
+
+beginner of CCE - nope
+
+corpus view browse
+
+atlas
+audiostellar 
+catart
+
+creative coding around machine listening and machine learning
+
+wekinator
+
+pipo
+
+ml*
+
+check lit review article (and point to it)
+
+scikit learn
+2 python mir stuff

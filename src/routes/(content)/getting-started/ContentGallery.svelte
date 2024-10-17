@@ -58,13 +58,17 @@
 	];
 </script>
 
-<h2>Or maybe you have something more specific in mind?</h2>
+<h2>...or maybe you have something more specific in mind?</h2>
 
 <div class="container">
 	{#each items as item}
 		<GalleryItem {item} />
 	{/each}
 </div>
+
+<h2>Is FluCoMa the right toolset for me right now?</h2>
+
+Read more about what FluCoMa [is and isn't](/learn/flucoma-or-else), and [potential alternative toolkits](/learn/flucoma-or-else) better suited for other workflows.
 
 <!-- <Masonry {items} {minColWidth} {maxColWidth} {gap} idKey={'title'} animate={false} let:item bind:width bind:height>
     <GalleryItem {item} />
