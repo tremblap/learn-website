@@ -20,6 +20,7 @@ corpus view browse
 atlas
 audiostellar 
 catart
+mosaique
 
 creative coding around machine listening and machine learning
 
