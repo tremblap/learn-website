@@ -68,6 +68,7 @@ One strategy of training the neural network is to set [`maxIter`](/learn/mlp-par
 <Tabs>
     <TabList>
         <Tab>SuperCollider</Tab>
+        <Tab>Pure Data</Tab>
         <Tab>Max</Tab>
     </TabList>
     <TabPanel>

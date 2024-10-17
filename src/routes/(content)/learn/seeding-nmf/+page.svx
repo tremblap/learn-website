@@ -54,6 +54,7 @@ These bases have been created manually by calculating each position in the basis
 <Tabs>
     <TabList>
         <Tab>Max</Tab>
+        <Tab>Pure Data</Tab>
         <Tab>SuperCollider</Tab>
     </TabList>
     <TabPanel>

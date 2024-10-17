@@ -95,6 +95,7 @@ Example code to check the distribution of dimensions in a [DataSet](/reference/d
 <Tabs>
 <TabList>
 <Tab>SuperCollider</Tab>
+<Tab>Pure Data</Tab>
 <Tab>Max</Tab>
 </TabList>
 <TabPanel>
