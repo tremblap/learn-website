@@ -1,0 +1,38 @@
+---
+title: Bundling Time
+author: PA
+blurb: |
+    My blurb
+tags:
+    - time
+    - smoothing
+    - descriptors
+    - audio descriptors
+    - statistics
+flair: tutorial
+featuredimage: /learn/for-featured-images/2D-corpus-explorer.png
+---
+
+<script>
+    import Admonition from '$lib/components/Admonition.svelte';
+</script>
+
+## title2
+
+fun stuff
+
+### subtitle
+
+bye [caca]() bye my love
+
+<Admonition type='pointer'>
+
+If you want to go straight to the code examples, they can be found under [Batch Processing Code Examples](#batch-processing-code-examples).
+
+</Admonition>
+
+## test2
+
+#### subsubsub
+
+hello
